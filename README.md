@@ -40,7 +40,7 @@ Don't stress tests are written in file **_test/exercise1.test.js_** to explain t
 
 To implement the function, you should do in a functional way WITHOUT using Lodash or any another FP library.
 
-But you cloud use the moment library to manipulate dates.
+But you coud use the moment library to manipulate dates.
 
 * :point_right: [`moment()`](https://momentjs.com/docs/#/parsing/unix-timestamp-milliseconds/)
 * :point_right: [`year()`](https://momentjs.com/docs/#/get-set/year/)
